@@ -1,0 +1,19 @@
+{
+  "name": "web-otp-angular",
+  "version": "0.0.2",
+  "author": {
+    "name": "Tushar Upadhyay",
+    "email": "tusharrockpg@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tushar-upadhyay/web-otp-angular.git"
+  },
+  "peerDependencies": {
+    "@angular/common": "^14.2.0",
+    "@angular/core": "^14.2.0"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  }
+}
